@@ -19,7 +19,7 @@ You can also checkout [rimraf](https://github.com/isaacs/rimraf) from [isaacs](h
 
 ## Requires
 
-    node >= 0.4.x
+    node >= 8.0.0
 
 ## Installation
 
@@ -72,18 +72,19 @@ You can optionally pass in an alternate fs implementation by passing in `options
       console.log('all files are removed');
     });
 
-## Creadit
+## Credit
 
-[Aaron Larner](https: //github.com/alarner)
-[Glen R.Goodwin](https: //github.com/arei)
-[David Pate](https: //github.com/DavidTPate)
-[Radare](https://github.com/radare)
+* [Nullivex](https://github.com/nullivex)
+* [Aaron Larner](https://github.com/alarner)
+* [Glen R.Goodwin](https://github.com/arei)
+* [David Pate](https://github.com/DavidTPate)
+* [Radare](https://github.com/radare)
 
 ## License
 
 (The MIT License)
 
-Copyright(c) 2011 dreamerslab & lt; ben@ dreamerslab.com & gt;
+Copyright(c) 2011-2019 NULLIVEX LLC, dreamerslab & lt; ben@ dreamerslab.com & gt;
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files(the 'Software'), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish,
 distribute, sublicense, and / or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to

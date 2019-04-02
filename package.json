@@ -1,6 +1,6 @@
 {
-  "name": "rmdir",
-  "version": "1.2.0",
+  "name": "rmdir2",
+  "version": "2.0.0",
   "description": "Remove all files in the given path recursively",
   "keywords": [
     "remove",
@@ -12,7 +12,7 @@
     "rmdir",
     "remove files recursively"
   ],
-  "author": "dreamerslab <ben@dreamerslab.com>",
+  "author": "Bryan Tong <bryan@nullivex.com>",
   "contributors": [
     {
       "name": "Aaron Larner"
@@ -29,18 +29,23 @@
       "name": "Radare",
       "email": "pancake@nopcode.org",
       "url": "http://www.radare.org/"
+    },
+    {
+      "name": "Bryan Tong",
+      "email": "bryan@nullivex.com",
+      "url": "https://www.nullivex.com"
     }
   ],
   "dependencies": {
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/dreamerslab/node.rmdir.git"
+    "url": "https://github.com/nullivex/rmdir2.git"
   },
   "main": "index",
-  "engines": [
-    "node >= 0.8.0"
-  ],
+  "engines": {
+    "node": ">=6"
+  },
   "licenses": [
     {
       "type": "MIT",
