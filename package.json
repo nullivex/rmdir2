@@ -1,6 +1,6 @@
 {
   "name": "rmdir2",
-  "version": "2.0.4",
+  "version": "2.0.5",
   "description": "Remove all files in the given path recursively",
   "keywords": [
     "remove",
