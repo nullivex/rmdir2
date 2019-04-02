@@ -1,7 +1,6 @@
-var rmdir = require( '../lib/rmdir' );
-var path  = __dirname + '/assets';
+let rmdir = require( '../lib/rmdir' );
 
-rmdir( __dirname + '/assets', { fs: require( 'fs' )}, function ( err, dirs, files ){
+rmdir( __dirname + '/assets', { fs: require( 'fs' )}, ( err, dirs, files ) => {
   if( err ) return console.log( 'err', err );
   console.log( 'dirs : \n', dirs );
   console.log( 'files : \n', files );

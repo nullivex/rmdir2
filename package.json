@@ -1,6 +1,6 @@
 {
   "name": "rmdir2",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "Remove all files in the given path recursively",
   "keywords": [
     "remove",
@@ -41,6 +41,7 @@
     }
   ],
   "dependencies": {
+    "graceful-fs": "^4.1.15"
   },
   "repository": {
     "type": "git",
