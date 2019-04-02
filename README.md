@@ -77,6 +77,9 @@ You can optionally pass in an alternate fs implementation by passing in `options
 
 # History
 
+## 2.0.4 / 2019-04-01
+* Fix NPM issue
+
 ## 2.0.3 / 2019-04-01
 * Update documentation and history
 * Update to ES6
