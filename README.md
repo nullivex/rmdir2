@@ -75,6 +75,7 @@ You can optionally pass in an alternate fs implementation by passing in `options
 ## Credit
 
 * [Nullivex](https://github.com/nullivex)
+* [Itay Maman](https://github.com/imaman)
 * [Aaron Larner](https://github.com/alarner)
 * [Glen R.Goodwin](https://github.com/arei)
 * [David Pate](https://github.com/DavidTPate)
