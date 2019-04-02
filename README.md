@@ -23,7 +23,7 @@ You can also checkout [rimraf](https://github.com/isaacs/rimraf) from [isaacs](h
 
 ## Installation
 
-    npm install rmdir
+    npm install rmdir2
 
 ## Usage
 
