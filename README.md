@@ -1,6 +1,15 @@
 # rmdir2
 
-Maintained as of 2019
+## Kado
+
+STOP AND READ THIS
+
+A new package is available to handle all your JavaScript needs.
+See [kado.org](https://kado.org) for details.
+
+## Summary
+
+Maintained as of 2020
 
 Remove all files in the given path recursively.
 
@@ -76,6 +85,11 @@ You can optionally pass in an alternate fs implementation by passing in `options
 
 
 # History
+
+## 2.0.6 / 2020-03-11
+* Update the following dependencies
+  * graceful-fs  ^4.1.15  →  ^4.2.3
+* Add notice about Kado to the README file.
 
 ## 2.0.5 / 2019-04-01
 * Fix ESIGIT Issue
