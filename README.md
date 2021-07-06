@@ -86,6 +86,10 @@ You can optionally pass in an alternate fs implementation by passing in `options
 
 # History
 
+## 2.0.7 / 2021-07-05
+* Update to latest dependencies
+* Update package json
+
 ## 2.0.6 / 2020-03-11
 * Update the following dependencies
   * graceful-fs  ^4.1.15  →  ^4.2.3
